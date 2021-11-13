@@ -42,4 +42,4 @@ The project is currently undergoing **HEAVY** development and therefore is not c
 
 ## Media
 
-![](https://raw.githubusercontent.com/FiveFamilies/FiveFamilies/main/fivefamilieslite.jpg)
+![](https://raw.githubusercontent.com/FiveFamilies/readme/main/fivefamilies.png)
