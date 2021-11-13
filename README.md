@@ -2,6 +2,9 @@
    <b>Five Families</b>
 </div>
 
+<hr/>
+
+
 <div align="center">
 Join us on discord: https://discord.gg/qm2rSvv7sG
 </div>
