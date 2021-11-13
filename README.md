@@ -9,6 +9,10 @@
 Join us on discord: https://discord.gg/qm2rSvv7sG
 </div>
 
+<div align="center">
+Website: https://www.fivefamilies.net/
+</div>
+
 <br />
 <div align="center">
 Five Families Project Framework v0.1 (ALPHA)
@@ -37,7 +41,7 @@ Development takes place in our **develop** branch and therefore is covering more
 
 ## Progress so far
 
-N/A
+In development.
 
 ## Disclaimer
 
