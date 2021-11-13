@@ -30,7 +30,7 @@ The ultimate goal is to create an original game engine using Unity, to build up 
 
 We are currently using Unity version: **2021.2.2.**.
 
-Development takes place in our **develop** branch and therefore is covering more features and possible fixes. We highly recommend to use **develop** branch until we begin using versioning semantics). **master** branch is considered stable but less developed and might also lack certain features which might introduce importing bugs or issues.
+Development takes place in our **develop** branch and therefore is covering more features and possible fixes. This is currently not available to the public as it is still in HEAVY development.
 
 ## Progress so far
 
@@ -38,7 +38,7 @@ N/A
 
 ## Disclaimer
 
-The project is currently undergoing **HEAVY** development and therefore is not currently available for public testing, however the majority of updates will be publicly available on our github.
+The project is currently undergoing **HEAVY** development and therefore is not currently available for public testing.
 
 ## Media
 ![](https://raw.githubusercontent.com/FiveFamilies/FiveFamilies/main/fivefamilieslite.jpg)
