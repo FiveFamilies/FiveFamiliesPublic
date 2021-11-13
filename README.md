@@ -31,7 +31,7 @@ The ultimate goal is to create an original game engine using Unity, to build up 
 
 ## Development
 
-We are currently using Unity version: **2021.2.2.**.
+We are currently using Unity version: **2021.2.2**.
 
 Development takes place in our **develop** branch and therefore is covering more features and possible fixes. This is currently not available to the public as it is still in HEAVY development.
 
