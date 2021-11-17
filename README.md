@@ -31,7 +31,7 @@ If the family controls a majority of the town, they will be the dominant power a
 
 ## Description
 
-The ultimate goal is to create an original game engine using Unity, to build up our framework and to create accessible compatibility with the Cardano Blockchain.
+The ultimate end goal is to create an original game engine using Unity, to build up our framework and to create accessible compatibility with the Cardano Blockchain.
 
 ## Development
 
@@ -45,7 +45,9 @@ In development.
 
 ## Disclaimer
 
-The project is currently undergoing **HEAVY** development and therefore is not currently available for public testing.
+The gamification project is currently undergoing **HEAVY** development and therefore is not currently available for public testing.
+
+The actual game release planned for Q1-Q2 2022 will take place on the platforms; Twitter & Discord.
 
 ## Media
 
