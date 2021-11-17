@@ -31,25 +31,25 @@ In the city there are bars, clubs, casinos and other small business which the ma
 
 If the family controls a majority of the town, they will be the dominant power and receive benefits from the town and its inhabitants.
 
-## Description
+## Story Line & Concept
 
-The ultimate end goal is to create an original game engine using Unity, to build up our framework and to create accessible compatibility with the Cardano Blockchain.
+The Five Families fight for control of Nova Costra, a crime laden land with the police losing control of the streets. The Families are fighting for control of land and prime Real Estate in the centre of town. In town there are bars, clubs, casinos, and other small businesses which the mafia look to extend control over and receive protection money. If the family controls a majority of the town, they will be the dominant power and the family bosses will receive the “Pizzo” from the city dwellers.
 
-## Development
+The Five Families will be battling for control, the bosses will be leading the fight and recruiting family members in order to retain an advantage over the other families and win the war. Rewards will be available each week for fighting family members with the “Pizzo” to be distributed to the winning family at the end of the war. 
 
-We are currently using Unity version: **2021.2.2**.
+There will be One Hundred Bosses and 2500 citizens of Nova Costra, police officers, enforcers, arms dealers… who will join a family of their choosing, either for personal gain, greed or loyalty.
 
-Development takes place in our **develop** branch and therefore is covering more features and possible fixes. This is currently not available to the public as it is still in HEAVY development.
+There will be only 20 of each family boss (100 total bosses), ownership of a boss grants you a leading role in the family and also founder status on your family’s chat. Being a boss grants you exclusive access to the “Pizzo” reward, payable by the citizens of Nova Costra to the controlling family. 
 
-## Progress so far
+Being one of the characters in the city allows you to play your part in the war, there are 5 other characters (2500 in total) which will be critical to the war effort. Each ordinary character will be able to pick which family he would prefer to join based on his/her own personal interests. Being an active family member in a battle allows you to be eligible for rewards which are distributed from the racketeering business or bribes paid from the family bosses for your loyalty. 
 
-In development.
+The ultimate end goal is to create an original game engine using Unity, to build up our framework and to create accessible compatibility with the Cardano Blockchain, however this is planned for extremely far down the pipeline and depending on whether or not the community wishes for us to continue development on the game will be taken under a vote.
 
 ## Disclaimer
 
 The gamification project is currently undergoing **HEAVY** development and therefore is not currently available for public testing.
 
-The actual game release planned for Q1-Q2 2022 will take place on the platforms; Twitter & Discord.
+The actual game release planned for Q1-Q2 2022 will take place on the platforms; Twitter & Discord, allowing every NFT holder to participate.
 
 ## Media
 ![](https://raw.githubusercontent.com/FiveFamilies/readme/main/fivefamilies.png)
