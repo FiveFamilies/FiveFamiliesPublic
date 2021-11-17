@@ -2,6 +2,8 @@
    <b>Five Families</b>
 </div>
 
+
+![](https://raw.githubusercontent.com/FiveFamilies/FiveFamiliesPublic/main/Five%20Families%20Logo%20WhiteBG.jpg)
 <hr/>
 
 
@@ -50,5 +52,4 @@ The gamification project is currently undergoing **HEAVY** development and there
 The actual game release planned for Q1-Q2 2022 will take place on the platforms; Twitter & Discord.
 
 ## Media
-
 ![](https://raw.githubusercontent.com/FiveFamilies/readme/main/fivefamilies.png)
