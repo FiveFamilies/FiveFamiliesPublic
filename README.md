@@ -43,13 +43,5 @@ There will be only 20 of each family boss (100 total bosses), ownership of a bos
 
 Being one of the characters in the city allows you to play your part in the war, there are 5 other characters (2500 in total) which will be critical to the war effort. Each ordinary character will be able to pick which family he would prefer to join based on his/her own personal interests. Being an active family member in a battle allows you to be eligible for rewards which are distributed from the racketeering business or bribes paid from the family bosses for your loyalty. 
 
-The ultimate end goal is to create an original game engine using Unity, to build up our framework and to create accessible compatibility with the Cardano Blockchain, however this is planned for extremely far down the pipeline and depending on whether or not the community wishes for us to continue development on the game will be taken under a vote.
-
-## Disclaimer
-
-The gamification project is currently undergoing **HEAVY** development and therefore is not currently available for public testing.
-
-The actual game release planned for Q1-Q2 2022 will take place on the platforms; Twitter & Discord, allowing every NFT holder to participate.
-
 ## Media
 ![](https://raw.githubusercontent.com/FiveFamilies/readme/main/fivefamilies.png)
